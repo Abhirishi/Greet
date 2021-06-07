@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayGreetApp</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="input_hint_name">Abhishek</string>
+    <string name="create_birthdate_card">Create Birthdate Card</string>
+    <string name="none" />
+    <string name="textview">TextView</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="hii_picture_here">Hii picture here</string>
+</resources>
